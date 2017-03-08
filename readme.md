@@ -1,6 +1,4 @@
 # JS Game Development
 ---
 
-Exploration and development using the JS game engine pixi.js
-
-pixi.js can be found at https://github.com/pixijs/pixi.js.git
+Repo for testing game development ideas in javascript
